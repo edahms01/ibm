@@ -1,2 +1,0 @@
-# ibm testrepo
-# test file
